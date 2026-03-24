@@ -1,6 +1,7 @@
 # Check before run: add data files before run
 # Make sure file format is accepted by script algorithm
 # N2O sensors data fill in exel down to bottom
+# After running the script, copy the IP and open it in browser
 import base64
 import io
 from pathlib import Path
